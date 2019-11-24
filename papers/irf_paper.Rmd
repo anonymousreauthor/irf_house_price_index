@@ -28,7 +28,7 @@ editor_options:
 
 ### Abstract
 
-The existing approaches for generating house price indexes (HPIs) are almost exclusively found in the realm of traditional statistical modeling. This paper offers a new approach using a maching learning model class -- random forests -- combined with a model-agnostic interpretability method -- partial dependency -- to derive an HPI. After providing an example of this approach, I then test the Interpretable Random Forest (IRF) against indexes derived from repeat sales and hedonic price models.  Using data from the City of Seattle, this comparison suggests that the IRF is competitive (and occasionally superior to) popular existing methods across measures of accuracy, volatility and revision at both a city-wide and a neighborhood scale.  
+The existing approaches for generating house price indexes (HPIs) are almost exclusively found in the realm of traditional statistical modeling. This paper offers a new approach using a machine learning model class -- random forests -- combined with a model-agnostic interpretability method -- partial dependency -- to derive an HPI. After providing an example of this approach, I then test the Interpretable Random Forest (IRF) against indexes derived from repeat sales and hedonic price models.  Using data from the City of Seattle, this comparison suggests that the IRF is competitive (and occasionally superior to) popular existing methods across measures of accuracy, volatility and revision at both a city-wide and a neighborhood scale.  
 
 ## Introduction
 
