@@ -50,5 +50,7 @@ vignettes/*.pdf
 rsconnect/
 
 .Rproj.user
+*.RDS
+*.rds
 
 
